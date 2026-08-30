@@ -1,0 +1,9 @@
+# Public governance kit: do not add platform exports or environment material.
+*.msapp
+*.zip
+*.pbix
+*.pbit
+*.env
+exports/
+solutions/
+screenshots/
